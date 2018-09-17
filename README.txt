@@ -1,4 +1,4 @@
-#SLB Datasets: HackRice2018 Schlumberger challenge 
+SLB Datasets: HackRice2018 Schlumberger challenge 
 
 website: slbdatasets.tech
 
